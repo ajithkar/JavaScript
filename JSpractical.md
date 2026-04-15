@@ -1,4 +1,4 @@
-# JavaScript Mixed Practical Worksheet 
+# JavaScript  Practical Worksheet 
 
 ---
 
