@@ -66,7 +66,55 @@
 // console.log(a || b);
 // console.log(!a);
 
-//Q.12
-let s = "20", n = 5;
-console.log(s + n);
-console.log(Number(s) + n);
+// //Q.12
+// let s = "20", n = 5;
+// console.log(s + n);
+// console.log(Number(s) + n);
+
+// //Q.13
+// let a = 10; let b = a;
+// b = 50;
+// console.log(a);
+// console.log(b);
+
+// //Q.14
+// let marks = 50;
+// if (marks >= 35)
+//     { console.log("Pass"); }
+//     else { console.log("Fail"); }
+
+// //Q.15
+// let greeter = { 
+//     greet: function() { return "Hello"; } 
+// };
+// console.log(greeter.greet()); 
+// greeter.greet = function() { return "Hi"; };
+// console.log(greeter.greet());
+
+// //Q.16
+// let dayNum = 2;
+// switch(dayNum) {
+//     case 1: console.log("Monday"); break;
+//     case 2: console.log("Tuesday"); break;
+//     case 3: console.log("Wednesday"); break;
+
+// //Q.17
+// console.log("hello" * 2);
+// console.log(undefined + 5);
+
+// //Q.18
+// let age = 20;
+// let status = age >= 18 ? "Adult" : "Minor";
+// console.log(status);
+
+// //Q.19
+// let m = 80;
+// if (m >= 75) { console.log("A"); } 
+// else if (m >= 50) { console.log("B"); } 
+// else { console.log("C"); }
+
+// //Q.20
+// let marks = 65;
+// if (marks >= 50) 
+//     { console.log("Pass"); } 
+//     else { console.log("Fail"); }
