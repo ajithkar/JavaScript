@@ -1,24 +1,19 @@
-function fullName()
-{
+function fullName(){
     const myName = "Ajithkar Palanivel";
     console.log(myName);
 }
-function fullName(firatName, lastName)
-{
+function fullName(firatName, lastName){
     return '${firstName} ${lastName}';
 
 }
-function addNumbers(numOne, numTwo)
-{
+function addNumbers(numOne, numTwo){
     return numOne + numTwo;
 }
 
-function areaOfRectangle(length, width)
-{
+function areaOfRectangle(length, width){
     return length * width;
 }
-function perimeterOfRectangle(length, width)
-{
+function perimeterOfRectangle(length, width){
     return 2 * (length + width);
 }
 function volumeOfRectPrism(length, width, height)
